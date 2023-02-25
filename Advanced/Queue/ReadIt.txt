@@ -1,0 +1,13 @@
+Queue Implementation Details:
+
+https://www.interviewbit.com/tutorial/queue-implementation-details/#queue-implementation-details
+
+
+
+We will cover the following in this session:
+
+- Implementation of Queues using Arrays, Linked List, Stacks
+
+- Circular Queues
+
+- Interview problems based on Queues
