@@ -1,2 +1,2 @@
 # ds_algo_sk
-complete data structure and algorithms &amp; system design
+complete data structure and algorithms , system design &amp; linux
